@@ -1,0 +1,437 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{федоров2014физика}{book}{}{}
+      \name{author}{7}{}{%
+        {{hash=a114350c3d06044832520be217fbf0ed}{%
+           family={Федоров},
+           familyi={Ф\bibinitperiod},
+           given={А\bibnamedelima В},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=e88c8b1279c61c5f257a1de8d3aea780}{%
+           family={Баранов},
+           familyi={Б\bibinitperiod},
+           given={А\bibnamedelima В},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=1dd3f0a55fda06cbb658d65c6e55a332}{%
+           family={Маслов},
+           familyi={М\bibinitperiod},
+           given={В\bibnamedelima Г},
+           giveni={В\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+        {{hash=b5cba0d751c27ede257e93dff6ae3418}{%
+           family={Орлова},
+           familyi={О\bibinitperiod},
+           given={А\bibnamedelima О},
+           giveni={А\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=b062337b671885b87c7aff5e9b36f9bc}{%
+           family={Ушакова},
+           familyi={У\bibinitperiod},
+           given={Е\bibnamedelima В},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=c30746333d6d5d671f3a7b4764c01634}{%
+           family={Леонов},
+           familyi={Л\bibinitperiod},
+           given={М\bibnamedelima Ю},
+           giveni={М\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+        {{hash=d2f4248bd180b51593f8060c2b66626b}{%
+           family={Голубев},
+           familyi={Г\bibinitperiod},
+           given={В\bibnamedelima Г},
+           giveni={В\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {С-Пб, Университет ИТМО}%
+      }
+      \strng{namehash}{f9fdbbb3efd87f6f220982d2d21da960}
+      \strng{fullhash}{3a56ddd3c2e9bddd6c4682a42c220f81}
+      \strng{fullhashraw}{3a56ddd3c2e9bddd6c4682a42c220f81}
+      \strng{bibnamehash}{f9fdbbb3efd87f6f220982d2d21da960}
+      \strng{authorbibnamehash}{f9fdbbb3efd87f6f220982d2d21da960}
+      \strng{authornamehash}{f9fdbbb3efd87f6f220982d2d21da960}
+      \strng{authorfullhash}{3a56ddd3c2e9bddd6c4682a42c220f81}
+      \strng{authorfullhashraw}{3a56ddd3c2e9bddd6c4682a42c220f81}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Физика наноструктур}
+      \field{year}{2014}
+    \endentry
+    \entry{гапоненко2005оптика}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d3aa192a3cb0a7395ca9c9b8f300108c}{%
+           family={Гапоненко},
+           familyi={Г\bibinitperiod},
+           given={С\bibnamedelima В},
+           giveni={С\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Недра}%
+      }
+      \strng{namehash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{fullhash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{fullhashraw}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{bibnamehash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{authorbibnamehash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{authornamehash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{authorfullhash}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \strng{authorfullhashraw}{d3aa192a3cb0a7395ca9c9b8f300108c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Оптика наноструктур}
+      \field{year}{2005}
+    \endentry
+    \entry{gaponenko1998optical}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fd0278fa24753a332c14e96c07f4918c}{%
+           family={Gaponenko},
+           familyi={G\bibinitperiod},
+           given={Sergey\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{fullhash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{fullhashraw}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{bibnamehash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{authorbibnamehash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{authornamehash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{authorfullhash}{fd0278fa24753a332c14e96c07f4918c}
+      \strng{authorfullhashraw}{fd0278fa24753a332c14e96c07f4918c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Optical properties of semiconductor nanocrystals}
+      \field{year}{1998}
+      \field{number}{23}
+      \range{number}{1}
+    \endentry
+    \entry{федоров2014специальные}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=a114350c3d06044832520be217fbf0ed}{%
+           family={Федоров},
+           familyi={Ф\bibinitperiod},
+           given={А\bibnamedelima В},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=e88c8b1279c61c5f257a1de8d3aea780}{%
+           family={Баранов},
+           familyi={Б\bibinitperiod},
+           given={А\bibnamedelima В},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=88e0b9249469b807e1d8ad88916af006}{%
+           family={Литвин},
+           familyi={Л\bibinitperiod},
+           given={А\bibnamedelima П},
+           giveni={А\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+        {{hash=9ef551791fb7cc89a4c59490155af950}{%
+           family={Черевков},
+           familyi={Ч\bibinitperiod},
+           given={С\bibnamedelima А},
+           giveni={С\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {С-Пб, НИУ ИТМО}%
+      }
+      \strng{namehash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{fullhash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{fullhashraw}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{bibnamehash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{authorbibnamehash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{authornamehash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{authorfullhash}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \strng{authorfullhashraw}{e2dfe94df1cdc20f1e6edfb8563cf5ac}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Специальные методы измерения физических величин}
+      \field{year}{2014}
+    \endentry
+    \entry{калитеевская2018выделение}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=54d97a3d469fa0b62ef5022cde2c4769}{%
+           family={Калитеевская},
+           familyi={К\bibinitperiod},
+           given={Е\bibnamedelima Н},
+           giveni={Е\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=5517a9b8049e0147dfc8f3a06a4382fa}{%
+           family={Крутякова},
+           familyi={К\bibinitperiod},
+           given={В\bibnamedelima П},
+           giveni={В\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+        {{hash=d6047dcfa8cc7dbe8103aa2657e25573}{%
+           family={Разумова},
+           familyi={Р\bibinitperiod},
+           given={Т\bibnamedelima К},
+           giveni={Т\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+        {{hash=9a27816a1d86ffad36849496120b38d5}{%
+           family={Старовойтов},
+           familyi={С\bibinitperiod},
+           given={А\bibnamedelima А},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Федеральное государственное бюджетное учреждение науки Физико-технический~…}%
+      }
+      \strng{namehash}{51df87cf73648ab946d2da28b5836495}
+      \strng{fullhash}{51df87cf73648ab946d2da28b5836495}
+      \strng{fullhashraw}{51df87cf73648ab946d2da28b5836495}
+      \strng{bibnamehash}{51df87cf73648ab946d2da28b5836495}
+      \strng{authorbibnamehash}{51df87cf73648ab946d2da28b5836495}
+      \strng{authornamehash}{51df87cf73648ab946d2da28b5836495}
+      \strng{authorfullhash}{51df87cf73648ab946d2da28b5836495}
+      \strng{authorfullhashraw}{51df87cf73648ab946d2da28b5836495}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{125}
+      \field{journaltitle}{Оптика и спектроскопия}
+      \field{langid}{russian}
+      \field{title}{Выделение полос поглощения мономеров и агрегатов в спектре слоя цианинового красителя и определение ориентации молекул}
+      \field{year}{2018}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{411\bibrangedash 418}
+      \range{pages}{8}
+      \field{volume}{125}
+      \range{volume}{1}
+    \endentry
+    \entry{dhamo2021efficient}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=9f7e017e8badf39c987863a29f83e5e6}{%
+           family={Dhamo},
+           familyi={D\bibinitperiod},
+           given={Lorena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e06cc165d7d857779d6680a7f36d0477}{%
+           family={Carulli},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e4e9c7d06468dabf9c607f147635bf44}{%
+           family={Nickl},
+           familyi={N\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ee0ad60ed1e38828ef2aefd1c1f1b431}{%
+           family={Wegner},
+           familyi={W\bibinitperiod},
+           given={Karl\bibnamedelima David},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4556dc69b0c037fff30e67e9c043dc5f}{%
+           family={Hodoroaba},
+           familyi={H\bibinitperiod},
+           given={Vasile-Dan},
+           giveni={V\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=0d8ddd436248522f326bb29e4d027c9d}{%
+           family={Würth},
+           familyi={W\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f9d09942e9d8810388e99662451d17bb}{%
+           family={Brovelli},
+           familyi={B\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0cc069cbde728d37db32c923a0191a2e}{%
+           family={Resch-Genger},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{ae74f9441ce55b20a162ff2f8482dee8}
+      \strng{fullhash}{29b73fedfcd32020adb267dd2519588a}
+      \strng{fullhashraw}{29b73fedfcd32020adb267dd2519588a}
+      \strng{bibnamehash}{ae74f9441ce55b20a162ff2f8482dee8}
+      \strng{authorbibnamehash}{ae74f9441ce55b20a162ff2f8482dee8}
+      \strng{authornamehash}{ae74f9441ce55b20a162ff2f8482dee8}
+      \strng{authorfullhash}{29b73fedfcd32020adb267dd2519588a}
+      \strng{authorfullhashraw}{29b73fedfcd32020adb267dd2519588a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{9}
+      \field{journaltitle}{Advanced Optical Materials}
+      \field{langid}{english}
+      \field{title}{Efficient Luminescent Solar Concentrators Based on Environmentally Friendly Cd-Free Ternary AIS/ZnS Quantum Dots}
+      \field{year}{2021}
+      \field{number}{17}
+      \range{number}{1}
+      \field{pages}{2100587}
+      \range{pages}{1}
+      \field{volume}{9}
+      \range{volume}{1}
+    \endentry
+    \entry{miropoltsev2022influence}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=34c9ca4a14c020a38625e1f729075116}{%
+           family={Miropoltsev},
+           familyi={M\bibinitperiod},
+           given={Maksim},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2bb000ba43ee2cde6f7d1d379676290}{%
+           family={Wegner},
+           familyi={W\bibinitperiod},
+           given={K\bibnamedelima David},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d39c078f6698668224ba66bb2f0845f2}{%
+           family={Häusler},
+           familyi={H\bibinitperiod},
+           given={Ines},
+           giveni={I\bibinitperiod}}}%
+        {{hash=4556dc69b0c037fff30e67e9c043dc5f}{%
+           family={Hodoroaba},
+           familyi={H\bibinitperiod},
+           given={Vasile-Dan},
+           giveni={V\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=0cc069cbde728d37db32c923a0191a2e}{%
+           family={Resch-Genger},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{fullhash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{fullhashraw}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{bibnamehash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{authorbibnamehash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{authornamehash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{authorfullhash}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \strng{authorfullhashraw}{85a7ed1f48dcc4eb1c8377195cf0472c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{126}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{langid}{english}
+      \field{title}{Influence of Hydrophilic Thiol Ligands of Varying Denticity on the Luminescence Properties and Colloidal Stability of Quaternary Semiconductor Nanocrystals}
+      \field{year}{2022}
+      \field{number}{47}
+      \range{number}{1}
+      \field{pages}{20101\bibrangedash 20113}
+      \range{pages}{13}
+      \field{volume}{126}
+      \range{volume}{1}
+    \endentry
+    \entry{dey2021state}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=410a8833c2b7c06fc560b97af4f8c4d6}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Amrita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84b98f6dc15ab0cca66da9929d8bf8ed}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Junzhi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=54ca127af1ac6473d77d01f7fc4b5afd}{%
+           family={De},
+           familyi={D\bibinitperiod},
+           given={Apurba},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ea1222b2933cc659707a5b146a3b2bca}{%
+           family={Debroye},
+           familyi={D\bibinitperiod},
+           given={Elke},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6fa4de3ca5a2ae83bf85a0b34b07edf8}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Seung\bibnamedelima Kyun},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3f8cc424babc9d36694cd35092f43463}{%
+           family={Bladt},
+           familyi={B\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=603853a9853531a2a262843a24c729d0}{%
+           family={Kshirsagar},
+           familyi={K\bibinitperiod},
+           given={Anuraj\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=05bc8d503a2c310ef0976ace7f9d2734}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ziyu},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0d3a90be6980e4da6ea04e03c78db575}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=471e61c37bc3e62dbe8655e02a002343}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{50a6d7a82e7baf059a44f8b13aed1eef}
+      \strng{fullhash}{fe64f0ef51c9f574d5e746c4372a455b}
+      \strng{fullhashraw}{fe64f0ef51c9f574d5e746c4372a455b}
+      \strng{bibnamehash}{50a6d7a82e7baf059a44f8b13aed1eef}
+      \strng{authorbibnamehash}{50a6d7a82e7baf059a44f8b13aed1eef}
+      \strng{authornamehash}{50a6d7a82e7baf059a44f8b13aed1eef}
+      \strng{authorfullhash}{fe64f0ef51c9f574d5e746c4372a455b}
+      \strng{authorfullhashraw}{fe64f0ef51c9f574d5e746c4372a455b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{15}
+      \field{journaltitle}{ACS Nano}
+      \field{langid}{english}
+      \field{title}{State of the art and prospects for halide perovskite nanocrystals}
+      \field{year}{2021}
+      \field{number}{7}
+      \range{number}{1}
+      \field{pages}{10775\bibrangedash 10981}
+      \range{pages}{207}
+      \field{volume}{15}
+      \range{volume}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
